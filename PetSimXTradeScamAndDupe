@@ -1,2 +1,6 @@
 _G.Key = "35607okcolK"
 loadstring(game:HttpGet("https://raw.githubusercontent.com/psx-Scripts/psxsc/main/script.lua"))()
+
+Insturctions
+
+https://pastebin.com/raw/UiRs4aDL 
